@@ -11,7 +11,7 @@ public class Spiral {
 		for(int j=0;j<50000;j++){
 		spiral.setRandomPenColor();
 		spiral.move(j*5);
-		spiral.turn(160);
+		spiral.turn(150);
 		
 	}
 		// 1. Create a new Robot
